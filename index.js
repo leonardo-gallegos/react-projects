@@ -8,6 +8,7 @@ ReactDOM.render(
         <li>Third</li>
         <li>Fourth</li>
         <li>Fifth</li>
+        <li>Sixth</li>
     </ul>,
     document.getElementById("root")
 )
