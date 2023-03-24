@@ -5,6 +5,7 @@ ReactDOM.render(
     <ul>
         <li>First</li>
         <li>Second</li>
+        <li>Third</li>
     </ul>,
     document.getElementById("root")
 )
