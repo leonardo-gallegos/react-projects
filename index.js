@@ -6,7 +6,6 @@ ReactDOM.render(
         <li>First</li>
         <li>Second</li>
         <li>Third</li>
-        <li>Fourth</li>
     </ul>,
     document.getElementById("root")
 )
